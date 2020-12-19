@@ -64,9 +64,25 @@
 
 // "0 == false" true
 // "0 === false" false
-文字列, false
-文字列 true
-// もじれつ　false
-// 文字列　false
-文字列 false
-文字列 true
+// 文字列, false
+// 文字列 true
+// // もじれつ　false
+// // 文字列　false
+// 文字列 false
+// 文字列 true
+
+
+//問題
+
+// let a = 1;
+
+// function fn(num) {
+//     num = num || -1; //trueのもの
+//     console.log(num)
+// }
+// fn(a);
+
+//問題
+
+
+
